@@ -142,33 +142,6 @@ http://localhost:5173
 
 This project is deployed using **Vercel**.
 
-### Steps
-
-1. Push the project to GitHub.
-2. Import the repository into Vercel.
-3. Add all `VITE_*` environment variables.
-4. Deploy.
-
----
-
-## 📄 Vercel Configuration
-
-Create a `vercel.json` file in the project root.
-
-```json
-{
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/index.html"
-    }
-  ]
-}
-```
-
-This ensures React Router works correctly when refreshing pages.
-
----
 
 ## 📸 Screenshots
 
@@ -179,10 +152,14 @@ This ensures React Router works correctly when refreshing pages.
 ### Search Results
 
 > Add a screenshot here.
+> <img width="1885" height="1011" alt="image" src="https://github.com/user-attachments/assets/d6e3b521-363f-41e6-9721-364911c8e067" />
+
 
 ### Trending Movies
 
 > Add a screenshot here.
+> <img width="1881" height="830" alt="image" src="https://github.com/user-attachments/assets/645ce70c-ae1e-41d7-aec5-1d5d6ff42621" />
+
 
 ---
 
@@ -194,6 +171,3 @@ GitHub: https://github.com/Moti-Abe
 
 ---
 
-## ⭐ Show Your Support
-
-If you found this project helpful, consider giving it a ⭐ on GitHub.
