@@ -148,11 +148,12 @@ This project is deployed using **Vercel**.
 ### Home Page
 
 > Add a screenshot here.
-
+<img width="1885" height="1011" alt="image" src="https://github.com/user-attachments/assets/d6e3b521-363f-41e6-9721-364911c8e067" />
 ### Search Results
+<img width="1867" height="1011" alt="image" src="https://github.com/user-attachments/assets/ed55b939-52f9-44e6-b031-8c35137243af" />
 
 > Add a screenshot here.
-> <img width="1885" height="1011" alt="image" src="https://github.com/user-attachments/assets/d6e3b521-363f-41e6-9721-364911c8e067" />
+> 
 
 
 ### Trending Movies
