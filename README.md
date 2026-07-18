@@ -4,7 +4,7 @@ A modern movie discovery web application built with **React**, **Vite**, **Tailw
 
 ## 🚀 Live Demo
 
-🔗 **Live Website:**[moti-movie-app.vercel.com](https://moti-movie-app.vercel.app/)
+🔗 **Live Website:**[ moti-movie-app.com](https://moti-movie-app.vercel.app/)
 
 ---
 
