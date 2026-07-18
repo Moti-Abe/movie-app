@@ -158,7 +158,9 @@ This project is deployed using **Vercel**.
 ### Trending Movies
 
 > Add a screenshot here.
-> <img width="1881" height="830" alt="image" src="https://github.com/user-attachments/assets/645ce70c-ae1e-41d7-aec5-1d5d6ff42621" />
+> <img width="1868" height="1007" alt="Screenshot 2026-07-18 161421" src="https://github.com/user-attachments/assets/2e2b9b8c-cd3a-48d1-b742-b89af1ee61f4" />
+
+
 
 
 ---
