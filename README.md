@@ -16,7 +16,7 @@ A modern movie discovery web application built with **React**, **Vite**, **Tailw
 - ⚡ Fast and responsive UI powered by React + Vite
 - ☁️ Serverless backend using Appwrite Cloud
 - 🎨 Modern, responsive interface built with Tailwind CSS
-- 📱 Fully responsive across desktop, tablet, and mobile devices
+- 📱 Fully responsive across desktop, tablet, and mobile devices.
 
 ---
 
