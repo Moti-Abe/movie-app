@@ -170,7 +170,6 @@ This project is deployed using **Vercel**.
 
 **Moti Abe**
 
-GitHub: https://github.com/Moti-Abe
 
 ---
 
