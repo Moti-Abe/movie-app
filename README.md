@@ -152,9 +152,6 @@ This project is deployed using **Vercel**.
 ### Search Results
 <img width="1867" height="1011" alt="image" src="https://github.com/user-attachments/assets/ed55b939-52f9-44e6-b031-8c35137243af" />
 
-> Add a screenshot here.
-> 
-
 
 ### Trending Movies
 
