@@ -14,7 +14,7 @@ A modern movie discovery web application built with **React**, **Vite**, **Tailw
 - 🎬 Browse popular and trending movies
 - 📈 View the **Top 5 Trending Movies** based on real-time user search activity
 - ⚡ Fast and responsive UI powered by React + Vite
-- ☁️ Serverless backend using Appwrite Cloud
+- ☁️ Serverless backend using Appwrite 
 - 🎨 Modern, responsive interface built with Tailwind CSS
 - 📱 Fully responsive across all devices.
 
