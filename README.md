@@ -1,4 +1,4 @@
-# 🎬 Movie App
+# 🎬 Movie App.
 
 A modern movie discovery web application built with **React**, **Vite**, **Tailwind CSS**, **TMDB API**, and **Appwrite**. Users can browse popular movies, search for their favorite titles, and discover the top trending movies based on real-time search statistics stored in Appwrite.
 
