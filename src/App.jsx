@@ -72,10 +72,34 @@ const App = () => {
 
   const loadTrendingMovies = async () => {
     try {
-      const movies = await getTrendingMovies()
-      setTrendingMovies(movies)
+      const savedTrendingMovies = await getTrendingMovies()
+
+      if (Array.isArray(savedTrendingMovies) && savedTrendingMovies.length > 0) {
+        setTrendingMovies(savedTrendingMovies)
+        return
+      }
+
+      const response = await fetch(`${API_BASE_URL}/trending/movie/week`, API_OPTIONS)
+
+      if (!response.ok) {
+        throw new Error('Failed to fetch trending movies')
+      }
+
+      const data = await response.json()
+      setTrendingMovies(
+        Array.isArray(data.results)
+          ? data.results.slice(0, 5).map((movie) => ({
+              $id: movie.id,
+              title: movie.title,
+              poster_url: movie.poster_path
+                ? `https://image.tmdb.org/t/p/w500${movie.poster_path}`
+                : '/No-poster.png',
+            }))
+          : []
+      )
     } catch (error) {
       console.error('Error loading trending movies:', error)
+      setTrendingMovies([])
     }
   }
 
