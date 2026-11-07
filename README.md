@@ -12,7 +12,7 @@ A modern movie discovery web application built with **React**, **Vite**, **Tailw
 
 - 🔍 Search movies instantly using the TMDB API
 - 🎬 Browse popular and trending movies
-- 📈 View the **Top 5 Trending Movies** based on real-time user search activity
+- 📈 View the **Top 5 Trending Movies** based on TMDB database search
 - ⚡ Fast and responsive UI powered by React + Vite
 - ☁️ Serverless backend using Appwrite 
 - 🎨 Modern, responsive interface built with Tailwind CSS
